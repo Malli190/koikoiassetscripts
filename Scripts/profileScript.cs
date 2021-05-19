@@ -7,7 +7,7 @@ using Firebase.Database;
 using Firebase.Unity.Editor;
 using UnityEngine.UI;
 using System.Security.Cryptography;
-
+// Написано на коленке
 public class profileScript : MonoBehaviour
 {
     public InputField nameField;
